@@ -1,8 +1,8 @@
 ### Página de Login en HTML5, CSS3 y JavaScript
 #### _Este proyecto es una página de login desarrollada en HTML5, CSS3 y JavaScript. <br>Es un modelo de login minimalista, intuitivo, original, responsivo y de código abierto._
-![alt text](https://i.imgur.com/VPRCDvU.png)
-![alt text](https://i.imgur.com/OCuVwi5.png)
-![alt text](https://i.imgur.com/eUewK4v.png)
+![imgLogin](https://github.com/user-attachments/assets/f70e6ccd-3049-43be-8994-dcdb784d37ad)
+![imgCreate](https://github.com/user-attachments/assets/b46c82cf-de81-4c13-a0fb-f8b1e16a19da)
+![imgRecover](https://github.com/user-attachments/assets/b3011810-6f6f-47c7-b9b9-87583160fa0d)
 
 ### Descarga
 ##### _haz la descarga haciendo clic en Code > Descargar_
